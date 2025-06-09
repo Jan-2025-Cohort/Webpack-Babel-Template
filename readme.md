@@ -1,4 +1,3 @@
-````
 # Webpack + Babel Starter Template
 
 This is a lightweight starter project using **Webpack** and **Babel** — no frameworks, no clutter. It helps you write modern JavaScript (ES6+) and bundle it for the browser.
