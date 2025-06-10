@@ -62,6 +62,7 @@ The output will be in the `dist/` folder, ready to be deployed.
 webpack-babel-app/
 ├── dist/              # Output folder & HTML template
 │   └── index.html
+    └── bundle.js
 ├── src/               # Your modern JavaScript goes here
 │   └── index.js
 ├── .babelrc           # Babel configuration
